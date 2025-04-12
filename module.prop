@@ -1,0 +1,7 @@
+# Información del Módulo
+id=gms-optimizer-lite
+name=GMS Optimizer Lite (Anti-Telemetría)
+version=v1.0
+versionCode=1
+author=LuferOS
+description=Intenta deshabilitar telemetría de Google y optimizar GMS Doze. ¡Úsalo con precaución!
